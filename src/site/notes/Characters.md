@@ -18,7 +18,7 @@
 	- Marisa - Reimu's best bud
 - Animals (Pet club)
 	- Okuu - Satori's pet raven (yatagarasu)
-	- Orin - Satori's pet cat (bakeneko)
+	- Orin - Satori's pet cat (kasha)
 	- Yamame - spider (tsuchigumo, dangerous; can cause disease, Eirin often borrows her to make vaccines). Has a terrarium and is contained safely.
 	- Mystia - sparrow that comes and goes through the window for food
 	- Aya - messenger crow
