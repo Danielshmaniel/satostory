@@ -19,6 +19,6 @@ Needed inspiration:
 - maybe KKHTA
 
 Go to:
-- [[[[Places\|[[Places]]]]
+- [[Places\|Places]]
 - [[Characters\|Characters]]
 - [[Plot\|Plot]]
