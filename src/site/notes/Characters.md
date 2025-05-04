@@ -1,0 +1,24 @@
+---
+{"dg-publish":true,"permalink":"/characters/"}
+---
+
+- You - a human related to Hakurei who doesn't fear youkai
+- Staff
+	- Keine - a lecturer on history and most subjects
+	- Patchouli - school librarian and magic lecturer
+	- Yukari - the headmistress
+	- Parsee - school gatekeeper (idk if she should be this or a student)
+	- Eirin - school nurse (also the vet of the Pet Club)
+- Students
+	- Satori - the mind-reading goth outcast kuudere/tsundere/dandere. Owns 2 personal pets and is the president of the Pet Club (she has a way with animals but not with people).
+	- Koishi - Satori's hyper little sister, vice president of Pet Club
+	- Flandre - friend of Koishi
+	- Cirno - tomboyish, confident, class clown, funny and popular (comic relief character)
+	- Reimu - your distant cousin
+	- Marisa - Reimu's best bud
+- Animals (Pet club)
+	- Okuu - Satori's pet raven (yatagarasu)
+	- Orin - Satori's pet cat (bakeneko)
+	- Yamame - spider (tsuchigumo, dangerous; can cause disease, Eirin often borrows her to make vaccines). Has a terrarium and is contained safely.
+	- Mystia - sparrow that comes and goes through the window for food
+	- Aya - messenger crow
