@@ -4,6 +4,8 @@
 
 It's the first day of school at Gensokyo High, a magician-youkai academy. The air is filled with the promise of a youthful high school life, with the hopes of gaining more knowledge along the way about the mysteries of this land.
 
+(dream segment)
+
 You wake up and look at the time on your Nitori-powered clock.
 (Oh Shizuha autumn goddess, I overslept!)
 You rush to wear your clothes and head off.
