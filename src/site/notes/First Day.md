@@ -4,7 +4,7 @@
 
 It's the first day of school at Gensokyo High, a magician-youkai academy. The air is filled with the promise of a youthful high school life, with the hopes of gaining more knowledge along the way about the mysteries of this land.
 
-(dream segment)
+(dream segment?)
 
 You wake up and look at the time on your Nitori-powered clock.
 (Oh Shizuha autumn goddess, I overslept!)
@@ -21,11 +21,17 @@ You bump into a girl wearing unusual gothic lolita attire.
 
 ***
 
-(class segment)
+Still thinking about that girl you just bumped into throughout your walk, you finally reach the school gate.
+A muscular red-haired Chinese woman stands against the wall of the school gate, with her head facing downwards as if she's about to doze off. As you approach the gate she suddenly raises her head,
+"(*yawn*) Good Meilin- Morning, late are we?"
+"Ah, sorry, I slept a bit too much, 'morning."
+"That's fine, young man. A lil' sleep don't hurt anybody (*chuckles*). Good day to you!"
+
+...
 
 ***
 
-Later in class you notice that this same girl is always by herself and it makes you wonder why people avoid her.
+Later in class you notice that that same girl you bumped into this morning is always by herself and it makes you wonder why people avoid her.
 
 One day you're walking around the corridor bored and looking for a club to join, when you hear angry bird and cat noises coming from a clubroom.
 **クエー!!** (CAW!!)

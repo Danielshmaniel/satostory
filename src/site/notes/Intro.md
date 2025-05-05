@@ -17,6 +17,7 @@ Inspiration:
 Needed inspiration:
 - read Foul Detective Satori
 - maybe KKHTA
+- https://www.touhou-project.com/th/res/138753.html old fanfic with coincidentally the same school name
 
 Go to:
 - [[Places\|Places]]

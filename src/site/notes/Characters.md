@@ -7,13 +7,14 @@
 	- Keine - a lecturer on history and most subjects
 	- Patchouli - school librarian and magic lecturer
 	- Yukari - the headmistress
-	- Parsee - school gatekeeper (idk if she should be this or a student)
+	- Meiling - school gatekeeper
 	- Eirin - school nurse (also the vet of the Pet Club)
 - Students
 	- Satori - the mind-reading goth outcast kuudere/tsundere/dandere. Owns 2 personal pets and is the president of the Pet Club (she has a way with animals but not with people).
 	- Koishi - Satori's hyper little sister, vice president of Pet Club
 	- Flandre - friend of Koishi
 	- Cirno - tomboyish, confident, class clown, funny and popular (comic relief character)
+	- Parsee - dorodere (cute on the outside, harbours deep green feelings of jelly on the inside)
 	- Reimu - your distant cousin
 	- Marisa - Reimu's best bud
 - Animals (Pet club)
