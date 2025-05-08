@@ -19,18 +19,27 @@
 	- Reisen (Eirin's rabbit)
 	- Tewi (Eirin's rabbit)
 	- Iku
+
 - ## Newspaper Club
 	- Aya
 	- Hatate
+
 - ## Drama Club
 	- Hina (Dancing Speening Doll)
 	- Alice (Seven-Coloured Puppeteer)
 	- Parsee (Iago)
+
 - ## Band Club
 	- Lunasa Primsriver (Violin)
 	- Merlin Prismriver (Trumpet)
 	- Lyrica Prismriver (Keyboard)
+
 - ## Cafeteria Champions
 	- Yuyuko (#1)
 	- Rumia (#2)
 	- Mystia (Lunch Lady)
+
+- ## Medicine Research
+	- Eirin (Nurse/Vet making vaccines from their samples)
+	- Yamame (Disease maker)
+	- Medicine Melancholy (Poison maker)
