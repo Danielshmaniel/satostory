@@ -25,7 +25,7 @@
 	- Yuugi - PE Coach (stronk, don't drink on the job!)
 	- Meiling - School Gatekeeper (also stronk, don't sleep on the job!)
 	- Mystia - Lunch Lady
-	- Nitori - Technician
+	- Nitori - Technician/Engineer
 	- Fairy maids - Janitors
 	- Sakuya - Chief Maid
 - ## Class 2 Students
