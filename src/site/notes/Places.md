@@ -2,14 +2,23 @@
 {"dg-publish":true,"permalink":"/places/"}
 ---
 
-- Somewhere in Gensokyo
-	- Gensokyo High (high school)
-		- School gate
-		- Hallway
-		- Corridor
-		- Class
-		- Pet Club
-		- Gym
+- Forest of Magic
+	- Your house
+	- Marisa's house
+	- Alice's house
+- Hakurei Shrine
+- Fantastic Blowhole (Enter Chireiden)
+- SDM - Scarlet High (SDM turns into a high school)
+	- School gate
+	- Hallway
+	- Class 3 (Secondary class)
+	- Class 2 (Main class)
+	- Class 1 (Wan; Kemonomimi class)
+	- Corridor
+	- Pet Club
+	- Newspaper Club
+	- Drama + Band Club
+	- Gym
 - Chireiden
 	- Old Capital
 	- The Palace

@@ -13,10 +13,12 @@
 - [[Plot\|Plot]]
 
 ## Inspiration:
-- ![a-date-around-the-old-capital-v0-9b0ggmk3n0ld1-1.webp|200](/img/user/Images/a-date-around-the-old-capital-v0-9b0ggmk3n0ld1-1.webp) 
+- ![Satori Date.webp|200](/img/user/Images/Satori%20Date.webp) 
 - that reddit fanart of satori going on a date around the old capital
 - birdgirl dating sim (fav touhou dating sim)
 - nokotan (pet club, kemonomimi turning chibi and being pampered)
+- seton academy (kemonomimi in school)
+- https://www.reddit.com/r/touhou/comments/iqxh9r/gensokyos_high_school_my_first_post/
 
 ## Needed inspiration:
 - read Foul Detective Satori
@@ -25,4 +27,5 @@
 
 ## Resources:
 - https://youtube.com/@vimi Visual Novel Design yt channel
-
+- https://i.redd.it/t118a4520yna1.jpg Gensokyo Map
+- https://en.touhouwiki.net Touhou Wiki

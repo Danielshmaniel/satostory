@@ -2,44 +2,73 @@
 {"dg-publish":true,"permalink":"/characters/"}
 ---
 
-Characters from the games 6-11
-- 6 rumia, dai, saku
-- 7 yuyu youmu alice chen ran letty lily prismrivers
-- 7.5 suika
-- 8 kagu mokou wriggle
-- 9 eiki komachi medi yuuka
-- 10 sanae kanako hina momiji aya akis
-- 10.5 tenshi iku
-- 11 kisume
+*Characters from the games 6-11*
+### Left:
+- 6 dai
+- 7
+- 7.5
+- 8
+- 9
+- 10 sanae kanako
+- 10.5
+- 11
 ***
-- You - a human male (gender balancing gonna be hard 😓) related to Hakurei who doesn't fear youkai (quirk needed for the plot)
-- Staff
-	- Keine - a lecturer on history and most subjects
-	- Patchouli - school librarian and magic lecturer
-	- Koakuma - vice-librarian, Patchy's assistant
-	- Yukari - the teleporting headmistress
-	- Eirin - school nurse (also the vet of the Pet Club)
-	- Yuugi - PE coach (stronk, don't drink on the job!)
-	- Meiling - school gatekeeper (also stronk, don't sleep on the job!)
-	- Nitori - technician?
-- Class 2 Students
+- You - a human male magician living in the Forest of Magic (gender balancing gonna be hard 😓) related to Hakurei who doesn't fear youkai (quirk needed for the plot)
+- ## School Staff
+	- Yukari - the teleporting Headmistress
+	- Ran - Vice Principal
+	- Chen - Secretary
+	- Keine - History lecturer
+	- Patchouli - school Librarian and English + Magic Lecturer
+	- Koakuma - Vice-Librarian, Patchy's Assistant
+	- Eirin - School Nurse (also the vet of the Pet Club)
+	- Yuugi - PE Coach (stronk, don't drink on the job!)
+	- Meiling - School Gatekeeper (also stronk, don't sleep on the job!)
+	- Mystia - Lunch Lady
+	- Nitori - Technician
+	- Fairy maids - Janitors
+	- Sakuya - Chief Maid
+- ## Class 2 Students
 	- Satori - the mind-reading goth outcast kuudere/tsundere/dandere. Owns 2 personal pets and is the president of the Pet Club (she has a way with animals but not with people).
 	- Koishi - Satori's hyper little sister, vice president of Pet Club
 	- Flandre - friend of Koishi, Remi's lil sis
 	- Remilia - Koishi's big sister, charismatic
-	- Cirno - tomboyish, class clown, comic relief character
 	- Parsee - dorodere (cute on the outside, harbours deep green feelings of jelly on the inside)
 	- Reimu - your distant cousin
 	- Marisa - Reimu's best bud
-	- Alice - doll magician, likes Marisa
-- Animals (Class Wan & Pet Club; characters who shapeshift into chibi forms to be pampered by Satori)
-	- Okuu - Satori's pet raven (yatagarasu)
-	- Orin - Satori's pet cat (kasha)
+	- Alice - doll magician, likes Marisa, member of Drama Club (she performs with her dolls)
+	- Cirno - tomboyish, class clown, comic relief character
+	- Rumia - goth T-posing cannibal girl (she wants to nibble on you, that so?~) (#2 cafeteria champion, mmm meat)
+- ## Kemonomimi (Class 1/Wan + Pet Club)
+	*Half-human half-animal characters who shapeshift into chibi forms to be pampered by Satori*
+	- Okuu - Satori's pet raven (yatagarasu), nuclear baka
+	- Orin - Satori's pet cat (kasha), goth, MIAU
 	- Yamame - spider (tsuchigumo, dangerous; can cause disease, Eirin often borrows her to make vaccines). Has a terrarium and is contained safely.
-	- Mystia - sparrow that comes and goes through the window for food
-	- Aya - messenger crow (dang i wish she wasn't just an animal, newspaper club)
-	- Momiji - white wolf (wolves have symbiosis with crows)
-	- Reisen - Eirin's rabbit
-	- Tewi - Eirin's rabbit
-- Minor appearances
-	- Tenshi as weather forecast lady?
+	- Wriggle - nightbug, bug fanatic
+	- Mystia - sparrow that comes and goes through the window
+	- Aya - newspaper girl, messenger crow, sonic fanatic (Newspaper Club)
+	- Hatate - newspaper girl 2, gyaru blogger (Newspaper Club)
+	- Momiji - white wolf (wolves have symbiosis with ravens irl, artistic liberty -> also crow)
+	- Reisen - Eirin's rabbit, Lunatic
+	- Tewi - Eirin's rabbit, Prankster
+	- Iku - Eel in aquarium
+- ## Class 3 Students
+	- Lyrica Prismriver - band kid (Band Club)
+	- Lunasa Prismriver - band kid (Band Club)
+	- Merlin Prismriver - band kid (Band Club)
+	- Medicine Melancholy - emo poison doll (whose poison, you guessed it, Eirin takes to make vaccines)
+	- Youmu - sigma swordswoman
+	- Yuyuko - uwu ghost girl, #1 cafeteria champion
+	- Eiki - wants to be a lawyer, goody two shoes
+	- Komachi - canoes Eiki home, sleepy and friends with Meiling
+	- Suika - party girl, Yuugi's pet student
+	- Hina - i like to dance and speen, drama club (partnered with band club)
+- ## Minor appearances
+	- Tenshi - weather forecast lady on TV
+	- Kaguya - NEET gamer out of school (Eirin the nurse mentions her)
+	- Mokou - Mad that Kagu's a NEET
+	- Aki sisters - appear on a calendar (autumn) when "Oh Shii-zuha autumn goddess"
+	- Lily White - appears on a calendar (spring)
+	- Letty Whiterock - appears on a calendar (winter)
+	- Yuuka - appears on a calendar (summer)
+	- Kisume - prank bucket on classroom door pulled off by Tewi

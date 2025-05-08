@@ -2,8 +2,9 @@
 {"dg-publish":true,"permalink":"/plot/"}
 ---
 
+- [0. Prologue]: Scarlet High's Origins
+	- 
 - [[Dialogue/1. First Day\|1. First Day]]: Two Fateful Meetings (remi wink)
-	- (Potential symbolic dream segment)
 	- Wake up late for the first day
 	- Bump into a girl on your way to school
 	- Enter the school
