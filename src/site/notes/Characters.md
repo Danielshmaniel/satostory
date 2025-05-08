@@ -58,7 +58,7 @@
 	- Merlin Prismriver - band kid (Band Club)
 	- Medicine Melancholy - emo poison doll (whose poison, you guessed it, Eirin takes to make vaccines)
 	- Youmu - sigma swordswoman
-	- Yuyuko - uwu ghost girl, #1 cafeteria champion
+	- Yuyuko - uwu ghost girl (#1 cafeteria champion)
 	- Eiki - wants to be a lawyer, goody two shoes
 	- Komachi - canoes Eiki home, sleepy and friends with Meiling
 	- Suika - party girl, Yuugi's pet student
