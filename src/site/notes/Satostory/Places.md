@@ -1,0 +1,26 @@
+---
+{"dg-publish":true,"permalink":"/satostory/places/"}
+---
+
+- Forest of Magic
+	- Your house
+	- Marisa's house
+	- Alice's house
+- Hakurei Shrine (Reimu your cousin)
+- Fantastic Blowhole (Enter Chireiden)
+- SDM - Scarlet High (SDM turns into a high school)
+	- School gate
+	- Hallway
+	- Class 3 (Secondary class)
+	- Class 2 (Main class)
+	- Class 1 (Wan; Kemonomimi class)
+	- Cafeteria
+	- Gym
+	- Corridor (leading to [[Satostory/Clubs\|Clubs]])
+	- Pet Club (see [[Satostory/Clubs\|Clubs]])
+	- Newspaper Club (see [[Satostory/Clubs\|Clubs]])
+	- Drama Club (see [[Satostory/Clubs\|Clubs]])
+	- Band Club (see [[Satostory/Clubs\|Clubs]])
+- Chireiden
+	- Old Capital
+	- The Palace
