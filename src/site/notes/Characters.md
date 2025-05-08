@@ -18,7 +18,7 @@
 	- Yukari - the teleporting Headmistress
 	- Ran - Vice Principal
 	- Chen - Secretary
-	- Keine - History lecturer
+	- Keine - History Lecturer
 	- Patchouli - school Librarian and English + Magic Lecturer
 	- Koakuma - Vice-Librarian, Patchy's Assistant
 	- Eirin - School Nurse (also the vet of the Pet Club)
