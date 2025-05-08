@@ -2,16 +2,27 @@
 {"dg-publish":true,"permalink":"/characters/"}
 ---
 
-- You - a human related to Hakurei who doesn't fear youkai
+Characters from the games 6-11
+- 6 rumia, dai, saku
+- 7 yuyu youmu alice chen ran letty lily prismrivers
+- 7.5 suika
+- 8 kagu mokou wriggle
+- 9 eiki komachi medi yuuka
+- 10 sanae kanako hina momiji aya akis
+- 10.5 tenshi iku
+- 11 kisume
+***
+- You - a human male (gender balancing gonna be hard 😓) related to Hakurei who doesn't fear youkai (quirk needed for the plot)
 - Staff
 	- Keine - a lecturer on history and most subjects
 	- Patchouli - school librarian and magic lecturer
 	- Koakuma - vice-librarian, Patchy's assistant
-	- Yukari - the headmistress
+	- Yukari - the teleporting headmistress
 	- Eirin - school nurse (also the vet of the Pet Club)
 	- Yuugi - PE coach (stronk, don't drink on the job!)
 	- Meiling - school gatekeeper (also stronk, don't sleep on the job!)
-- Students
+	- Nitori - technician?
+- Class 2 Students
 	- Satori - the mind-reading goth outcast kuudere/tsundere/dandere. Owns 2 personal pets and is the president of the Pet Club (she has a way with animals but not with people).
 	- Koishi - Satori's hyper little sister, vice president of Pet Club
 	- Flandre - friend of Koishi, Remi's lil sis
@@ -20,11 +31,15 @@
 	- Parsee - dorodere (cute on the outside, harbours deep green feelings of jelly on the inside)
 	- Reimu - your distant cousin
 	- Marisa - Reimu's best bud
-- Animals (Pet Club)
+	- Alice - doll magician, likes Marisa
+- Animals (Class Wan & Pet Club; characters who shapeshift into chibi forms to be pampered by Satori)
 	- Okuu - Satori's pet raven (yatagarasu)
 	- Orin - Satori's pet cat (kasha)
 	- Yamame - spider (tsuchigumo, dangerous; can cause disease, Eirin often borrows her to make vaccines). Has a terrarium and is contained safely.
 	- Mystia - sparrow that comes and goes through the window for food
-	- Aya - messenger crow
+	- Aya - messenger crow (dang i wish she wasn't just an animal, newspaper club)
+	- Momiji - white wolf (wolves have symbiosis with crows)
 	- Reisen - Eirin's rabbit
 	- Tewi - Eirin's rabbit
+- Minor appearances
+	- Tenshi as weather forecast lady?

@@ -5,6 +5,8 @@
 - Somewhere in Gensokyo
 	- Gensokyo High (high school)
 		- School gate
+		- Hallway
+		- Corridor
 		- Class
 		- Pet Club
 		- Gym
