@@ -8,13 +8,14 @@
 ## Codename: Satostory
 
 ## Go to:
-- [[Places\|Places]]
-- [[Characters\|Characters]]
 - [[Plot\|Plot]]
+- [[Characters\|Characters]]
+- [[Places\|Places]]
+- [[Clubs\|Clubs]]
 
 ## Inspiration:
 - ![Satori Date.webp|200](/img/user/Images/Satori%20Date.webp) 
-- that reddit fanart of satori going on a date around the old capital
+- ^ that reddit fanart of satori going on a date around the old capital
 - birdgirl dating sim (fav touhou dating sim)
 - nokotan (pet club, kemonomimi turning chibi and being pampered)
 - seton academy (kemonomimi in school)

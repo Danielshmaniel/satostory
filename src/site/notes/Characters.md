@@ -9,7 +9,7 @@
 - 7.5
 - 8
 - 9
-- 10 sanae kanako
+- 10 sanae kanako suwako
 - 10.5
 - 11
 ***
@@ -32,10 +32,10 @@
 	- Satori - the mind-reading goth outcast kuudere/tsundere/dandere. Owns 2 personal pets and is the president of the Pet Club (she has a way with animals but not with people).
 	- Koishi - Satori's hyper little sister, vice president of Pet Club
 	- Flandre - friend of Koishi, Remi's lil sis
-	- Remilia - Koishi's big sister, charismatic
-	- Parsee - dorodere (cute on the outside, harbours deep green feelings of jelly on the inside)
+	- Remilia - Koishi's big sister, charismatic (owner of mansion/school yet she's a student)
+	- Parsee - dorodere (cute on the outside, harbours deep green feelings of jelly on the inside) (Drama Club; Iago the anime girl)
 	- Reimu - your distant cousin
-	- Marisa - Reimu's best bud
+	- Marisa - Reimu's best bud, confident, ze
 	- Alice - doll magician, likes Marisa, member of Drama Club (she performs with her dolls)
 	- Cirno - tomboyish, class clown, comic relief character
 	- Rumia - goth T-posing cannibal girl (she wants to nibble on you, that so?~) (#2 cafeteria champion, mmm meat)
@@ -51,7 +51,7 @@
 	- Momiji - white wolf (wolves have symbiosis with ravens irl, artistic liberty -> also crow)
 	- Reisen - Eirin's rabbit, Lunatic
 	- Tewi - Eirin's rabbit, Prankster
-	- Iku - Eel in aquarium
+	- Iku - Eel in aquarium (friend of Nitori, manipulates electricity)
 - ## Class 3 Students
 	- Lyrica Prismriver - band kid (Band Club)
 	- Lunasa Prismriver - band kid (Band Club)

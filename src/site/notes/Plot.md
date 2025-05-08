@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/plot/"}
 ---
 
-- [0. Prologue]: Scarlet High's Origins
+- [[Dialogue/0. Prologue\|0. Prologue]]: Scarlet High's Origins
 	- 
 - [[Dialogue/1. First Day\|1. First Day]]: Two Fateful Meetings (remi wink)
 	- Wake up late for the first day
