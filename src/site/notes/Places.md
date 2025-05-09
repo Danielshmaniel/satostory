@@ -1,0 +1,26 @@
+---
+{"dg-publish":true,"permalink":"/places/"}
+---
+
+- Forest of Magic
+	- Your house
+	- Marisa's house
+	- Alice's house
+- Hakurei Shrine (Reimu your cousin)
+- Fantastic Blowhole (Enter Chireiden)
+- SDM - Scarlet High (SDM turns into a high school)
+	- School gate
+	- Hallway
+	- Class 3 (Secondary class)
+	- Class 2 (Main class)
+	- Class 1 (Wan; Kemonomimi class)
+	- Cafeteria
+	- Gym
+	- Corridor (leading to [[Clubs\|Clubs]])
+	- Pet Club (see [[Clubs\|Clubs]])
+	- Newspaper Club (see [[Clubs\|Clubs]])
+	- Drama Club (see [[Clubs\|Clubs]])
+	- Band Club (see [[Clubs\|Clubs]])
+- Chireiden
+	- Old Capital
+	- The Palace
