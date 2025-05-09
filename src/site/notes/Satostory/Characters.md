@@ -54,7 +54,7 @@
 	- **Reisen** - Eirin's rabbit, Lunatic
 	- **Tewi** - Eirin's rabbit, Prankster
 	- **Iku** - Eel in aquarium (friend of Nitori, manipulates electricity)
-- ## Class 3 (Sanzuriver) Students
+- ## Class 3 (Class Sanzuriver) Students
 - *(***クラス三途リバー***) ***Class Sanzuriver*** *= pun on san (three) + Sanzu (PoFV river) + river ('Prismriver' ends in 'river'; the Prismrivers are 3 like the class number)*
 	- **Lyrica** Prismriver - band kid (Band Club)
 	- **Lunasa** Prismriver - band kid (Band Club)
