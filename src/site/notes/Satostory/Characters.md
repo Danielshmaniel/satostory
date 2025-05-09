@@ -13,7 +13,7 @@
 - 10.5
 - 11
 ***
-- You - a human male magician living in the Forest of Magic (gender balancing gonna be hard 😓) related to Hakurei who doesn't fear youkai (quirk needed for the plot)
+- **You** - a human male magician living in the Forest of Magic (gender balancing gonna be hard 😓) related to Hakurei who doesn't fear youkai (quirk needed for the plot). Ability: idk yet
 - ## School Staff
 	- **Yukari** - the teleporting Headmistress
 	- **Ran** - Vice Principal
@@ -29,6 +29,7 @@
 	- **Fairy maids** - Janitors
 	- **Sakuya** - Chief Maid
 - ## Class 2 (Komakyoshitsu) Students
+- *(**紅魔教室***) ***Koumakyoushitsu*** *= pun combining Koumakyou (jap title for EoSD) + kyoushitsu (classroom)*
 	- **Satori** - the mind-reading goth outcast kuudere/tsundere/dandere. Owns 2 personal pets and is the president of the Pet Club (she has a way with animals but not with people).
 	- **Koishi** - Satori's hyper little sister, vice president of Pet Club
 	- **Flandre** - friend of Koishi, Remi's lil sis
@@ -39,20 +40,22 @@
 	- **Alice** - doll magician, likes Marisa, member of Drama Club (she performs with her dolls)
 	- **Cirno** - tomboyish, class clown, comic relief character
 	- **Rumia** - goth T-posing cannibal girl (she wants to nibble on you, that so?~) (#2 cafeteria champion, mmm meat)
-- ## Class 1 (Class Wan) Kemonomini + Pet Club
-	*Half-human half-animal characters who shapeshift into chibi forms to be pampered by Satori*
+- ## Class 1 (Class Wan) Kemonomimi + Pet Club 
+- *Half-human half-animal characters who shapeshift into chibi forms to be pampered by Satori.*
+- *(**クラス・ワン***) ***Class Wan*** *= pun on 1 and wanwan (Momiji's cute barking)*
 	- **Okuu** - Satori's pet raven (yatagarasu), nuclear baka
 	- **Orin** - Satori's pet cat (kasha), goth, MIAU
 	- **Yamame** - spider (tsuchigumo, dangerous; can cause disease, Eirin often borrows her to make vaccines). Has a terrarium and is contained safely.
 	- **Wriggle** - nightbug, bug fanatic
 	- **Mystia** - sparrow that comes and goes through the window
-	- **Aya** - newspaper girl, messenger crow, sonic fanatic (Newspaper Club)
-	- **Hatate** - newspaper girl 2, gyaru blogger (Newspaper Club)
-	- **Momiji** - white wolf (wolves have symbiosis with ravens irl, artistic liberty -> also crow)
+	- **Aya** - newspaper girl, messenger crow (tengu), sonic fanatic (Newspaper Club)
+	- **Hatate** - newspaper girl 2, gyaru blogger (crow tengu) (Newspaper Club)
+	- **Momiji** - white wolf (tengu, wolves have symbiosis with ravens irl, artistic liberty -> also crow)
 	- **Reisen** - Eirin's rabbit, Lunatic
 	- **Tewi** - Eirin's rabbit, Prankster
 	- **Iku** - Eel in aquarium (friend of Nitori, manipulates electricity)
 - ## Class 3 (Daisanzuriver) Students
+- *(***クラス第三途リバー***) ***Class Daisanzuriver*** *= pun on class daisan (third class) + Sanzu (PoFV river) + river ('Prismriver' ends in 'river'; the Prismrivers are 3 like the class number)*
 	- **Lyrica** Prismriver - band kid (Band Club)
 	- **Lunasa** Prismriver - band kid (Band Club)
 	- **Merlin** Prismriver - band kid (Band Club)
