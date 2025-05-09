@@ -4,14 +4,8 @@
 
 *Characters from the games 6-11*
 ### Left:
-- 6 dai
-- 7
-- 7.5
-- 8
-- 9
-- 10 sanae kanako suwako
-- 10.5
-- 11
+- 6 - dai
+- 10 - sanae kanako suwako
 ***
 - **You** - a human male magician living in the Forest of Magic (gender balancing gonna be hard 😓) related to Hakurei who doesn't fear youkai (quirk needed for the plot). Ability: idk yet
 - ## School Staff
