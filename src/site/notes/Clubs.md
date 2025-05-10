@@ -3,43 +3,43 @@
 ---
 
 - ## Pet Club
-	- Satori (President)
-	- Koishi (Vice-Pres)
-	- Okuu (Satori's pet)
-	- Orin (Satori's pet)
-	- Eirin (Vet, *not a student*)
-	- Reisen (Eirin's rabbit)
-	- Tewi (Eirin's rabbit)
-	- *Chen (not a student)*
-	- *Ran (not a student)*
-	- Mystia *(not a student)*
-	- Yamame
-	- Wriggle
-	- Aya
-	- Hatate
-	- Momiji
-	- Iku
+	- **Satori** (President)
+	- **Koishi** (Vice-Pres)
+	- **Okuu** (Satori's pet)
+	- **Orin** (Satori's pet)
+	- **Eirin** (Vet, *not a student*)
+	- **Reisen** (Eirin's pet)
+	- **Tewi** (Eirin's pet)
+	- **Chen** (*not a student*)
+	- **Ran** (*not a student*)
+	- **Mystia** (*not a student*)
+	- **Yamame**
+	- **Wriggle**
+	- **Aya**
+	- **Hatate**
+	- **Momiji**
+	- **Iku**
 
 - ## Newspaper Club
-	- Aya
-	- Hatate
+	- **Aya**
+	- **Hatate**
 
 - ## Drama Club
-	- Hina (Dancing Speening Doll, Leader)
-	- Alice (Seven-Coloured Puppeteer)
-	- Parsee (Iago in *Othello*)
+	- **Hina** (Dancing Speening Doll, Leader)
+	- **Alice** (Seven-Coloured Puppeteer)
+	- **Parsee** (Iago in *Othello*)
 
 - ## Band Club
-	- Lunasa Primsriver (Violin)
-	- Merlin Prismriver (Trumpet)
-	- Lyrica Prismriver (Keyboard)
+	- **Lunasa** Primsriver (Violin)
+	- **Merlin** Prismriver (Trumpet)
+	- **Lyrica** Prismriver (Keyboard)
 
 - ## Cafeteria Champions
-	- Yuyuko (#1)
-	- Rumia (#2)
-	- Mystia (Lunch Lady, *not a student*)
+	- **Yuyuko** (#1)
+	- **Rumia** (#2)
+	- **Mystia** (Lunch Lady, *not a student*)
 
 - ## Medicine Research
-	- Eirin (Nurse/Vet making vaccines from their samples, *not a student*)
-	- Yamame (Disease maker)
-	- Medicine Melancholy (Poison maker)
+	- **Eirin** (Nurse/Vet making vaccines from their samples, *not a student*)
+	- **Yamame** (Disease maker)
+	- **Medicine** Melancholy (Poison maker)
