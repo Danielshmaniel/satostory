@@ -9,7 +9,7 @@
 
 ***"You are the Apple of my Eye,
 the thing my Third Eye has been locked on ever since it's seen you.
-It sleeps with the image of you that leaves it sleepless."***
+It sleeps with this image of you that leaves it sleepless."***
 👁🌹
 # Title: **Apple of my Eye**
 ## Codename: Satostory
