@@ -3,7 +3,11 @@
 ---
 
 - ## [[Dialogue/0. Prologue\|0. Prologue]]: Scarlet High's Origins
-	- WIP
+	- Remilia is with Sakuya, owner of the SDM, and she laments about her boredom and worries about Flan.
+	- Flan's brain has been rotting more than usual recently, she could use a bit of brain exercise every now and then..
+	- Aya appears in the sky with her new papers
+	- Remilia accepts and reads it and gets surprised. It's about a new school needing to be built. Remi immediately takes the offer.
+	- Sakuya dials the number on the paper.
 - ## [[Dialogue/1. First Day\|1. First Day]]: Two Fateful Meetings (remi wink)
 	- Wake up late for the first day
 	- Bump into a girl on your way to school
