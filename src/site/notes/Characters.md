@@ -7,7 +7,7 @@
 - 6 - dai
 - 10 - sanae kanako suwako
 ***
-- **You** - a human male magician living in the Forest of Magic (gender balancing gonna be hard 😓) related to Hakurei who doesn't fear youkai (quirk needed for the plot). Ability: idk yet
+- **You** - a human male magician living in the Forest of Magic (gender balancing gonna be hard 😓) related to Hakurei who doesn't fear youkai; and often not much goes inside your head (quirk needed for the plot). Ability: idk yet, something magical.
 - ## School Staff
 	- **Yukari** - the teleporting Headmistress
 	- **Ran** - Vice Principal (visits the Pet Club after a long day)
@@ -24,8 +24,8 @@
 	- **Sakuya** - Chief Maid
 - ## Class 2 (Komakyoshitsu) Students
 - *(**紅魔教室***) ***Koumakyoushitsu*** *= pun combining Koumakyou (jap title for EoSD) + "kyoushitsu" (classroom)*
-	- **Satori** - the mind-reading goth outcast kuudere/tsundere/dandere. Owns 2 personal pets and is the president of the Pet Club (she has a way with animals but not with people).
-	- **Koishi** - Satori's hyper little sister, vice president of Pet Club
+	- **Satori** - the mind-reading goth outcast kuudere/tsundere/dandere. Owns 2 personal pets and is the president of the Pet Club (she has a way with animals but not with people). People don't really feel comfortable with a mind-reader like herself.
+	- **Koishi** - Satori's hyper little sister, vice president of Pet Club. Very friendly, even freakily so, yet people have a hard time noticing her.
 	- **Flandre** - friend of Koishi, Remi's lil sis
 	- **Remilia** - Koishi's big sister, charismatic (owner of mansion/school yet she's a student)
 	- **Parsee** - dorodere (cute on the outside, harbours deep green feelings of jelly on the inside) (Drama Club; Iago the anime girl)
