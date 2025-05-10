@@ -50,9 +50,9 @@
 	- **Iku** - Eel in aquarium (friend of Nitori, manipulates electricity)
 - ## Class 3 (Class Sanzuriver) Students
 - *(***クラス三途リバー***) ***Class Sanzuriver*** *= pun on "san" (three) + Sanzu (PoFV river) + river ('Prismriver' ends in 'river'; the Prismrivers are 3 like the class number)*
-	- **Lyrica** Prismriver - keyboard, band kid (Band Club)
-	- **Lunasa** Prismriver - violin, band kid (Band Club)
-	- **Merlin** Prismriver - trumpet, band kid (Band Club)
+	- **Lyrica** Prismriver - keyboard, band kid, level-headed sister (Band Club, Leader)
+	- **Lunasa** Prismriver - violin, band kid, airheaded sister (Band Club)
+	- **Merlin** Prismriver - trumpet, band kid, airheaded sister (Band Club)
 	- **Medicine** Melancholy - emo poison doll (whose poison, you guessed it, Eirin takes to make vaccines)
 	- **Youmu** - sigma swordswoman
 	- **Yuyuko** - uwu ghost girl (#1 cafeteria champion)
