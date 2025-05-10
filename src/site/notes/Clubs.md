@@ -30,9 +30,9 @@
 	- **Parsee** (Iago in *Othello*)
 
 - ## Band Club
+	- **Lyrica** Prismriver (Keyboard, Leader)
 	- **Lunasa** Primsriver (Violin)
 	- **Merlin** Prismriver (Trumpet)
-	- **Lyrica** Prismriver (Keyboard)
 
 - ## Cafeteria Champions
 	- **Yuyuko** (#1)
