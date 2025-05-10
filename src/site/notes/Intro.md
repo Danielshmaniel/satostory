@@ -5,7 +5,7 @@
 *What if i make a romcom drama VN about Satori Komeiji the mind reader?*
 *What would it be like to have a gf that can read your thoughts, and the funny implications of it?*
 
-*Welcome to Scarlet High, the Scarlet Mansion Academy where human-magicians and youkai alike can learn the secrets of this hidden land. A place where even bakas can educate themselves.*
+*Welcome to Scarlet High, the Scarlet Mansion Academy where human-magicians and youkai alike can learn the secrets of this hidden land. A place where even bakas and birdbrains can educate themselves.*
 
 ***"You are the Apple of my Eye,
 the thing my Third Eye has been locked on ever since it's seen you.
