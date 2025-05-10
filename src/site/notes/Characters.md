@@ -15,7 +15,7 @@
 	- **Keine** - History Lecturer
 	- **Patchouli** - School Librarian and English + Magic Lecturer
 	- **Koakuma** - Vice-Librarian, Patchy's Assistant
-	- **Eirin** - School Nurse (also the vet of the Pet Club)
+	- **Eirin** - School Nurse (also the Vet of the Pet Club)
 	- **Yuugi** - PE Coach (stronk, don't drink on the job!)
 	- **Meiling** - School Gatekeeper (also stronk, don't sleep on the job!)
 	- **Mystia** - Lunch Lady
