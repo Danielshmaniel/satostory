@@ -10,8 +10,8 @@
 - **You** - a human male magician living in the Forest of Magic (gender balancing gonna be hard 😓) related to Hakurei who doesn't fear youkai (quirk needed for the plot). Ability: idk yet
 - ## School Staff
 	- **Yukari** - the teleporting Headmistress
-	- **Ran** - Vice Principal (visits the Pet Club)
-	- **Chen** - Secretary (visits the Pet Club)
+	- **Ran** - Vice Principal (visits the Pet Club after a long day)
+	- **Chen** - Secretary (visits the Pet Club after a long day)
 	- **Keine** - History Lecturer
 	- **Patchouli** - School Librarian and English + Magic Lecturer
 	- **Koakuma** - Vice-Librarian, Patchy's Assistant
