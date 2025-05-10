@@ -18,7 +18,7 @@
 	- **Eirin** - School Nurse (also the Vet of the Pet Club)
 	- **Yuugi** - PE Coach (stronk, don't drink on the job!)
 	- **Meiling** - School Gatekeeper (also stronk, don't sleep on the job!)
-	- **Mystia** - Lunch Lady
+	- **Mystia** - Lunch Lady (visits the Pet Club after a long day)
 	- **Nitori** - Technician/Engineer
 	- **Fairy maids** - Janitors
 	- **Sakuya** - Chief Maid
