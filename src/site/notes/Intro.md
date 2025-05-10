@@ -30,3 +30,4 @@
 - https://youtube.com/@vimi Visual Novel Design yt channel
 - https://i.redd.it/t118a4520yna1.jpg Gensokyo Map
 - https://en.touhouwiki.net Touhou Wiki
+- thejadednetwork.com/sfx/ Japanese Onomatopoeia Reference
