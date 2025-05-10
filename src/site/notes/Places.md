@@ -6,14 +6,14 @@
 	- Your house
 	- Marisa's house
 	- Alice's house
-- Hakurei Shrine (Reimu your cousin)
-- Fantastic Blowhole (Enter Chireiden)
+- Hakurei Shrine (Reimu, your cousin)
+- Fantastic Blowhole (Enter Chireiden here)
 - SDM - Scarlet High (SDM turns into a high school)
 	- School gate
 	- Hallway
-	- Class 3 (Secondary class)
-	- Class 2 (Main class)
-	- Class 1 (Wan; Kemonomimi class)
+	- Class 3 (Class Sanzuriver; Secondary youkai class)
+	- Class 2 (Komakyoshitsu; Main youkai class)
+	- Class 1 (Class Wan; Kemonomimi class)
 	- Cafeteria
 	- Gym
 	- Corridor (leading to [[Clubs\|Clubs]])

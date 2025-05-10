@@ -5,19 +5,19 @@
 - ## Pet Club
 	- Satori (President)
 	- Koishi (Vice-Pres)
-	- Eirin (Vet)
 	- Okuu (Satori's pet)
 	- Orin (Satori's pet)
+	- Eirin (Vet, *not a student*)
+	- Reisen (Eirin's rabbit)
+	- Tewi (Eirin's rabbit)
 	- *Chen (not a student)*
 	- *Ran (not a student)*
-	- Yamame 
+	- Mystia *(not a student)*
+	- Yamame
 	- Wriggle
-	- Mystia
 	- Aya
 	- Hatate
 	- Momiji
-	- Reisen (Eirin's rabbit)
-	- Tewi (Eirin's rabbit)
 	- Iku
 
 - ## Newspaper Club
@@ -25,9 +25,9 @@
 	- Hatate
 
 - ## Drama Club
-	- Hina (Dancing Speening Doll)
+	- Hina (Dancing Speening Doll, Leader)
 	- Alice (Seven-Coloured Puppeteer)
-	- Parsee (Iago)
+	- Parsee (Iago in *Othello*)
 
 - ## Band Club
 	- Lunasa Primsriver (Violin)
@@ -37,9 +37,9 @@
 - ## Cafeteria Champions
 	- Yuyuko (#1)
 	- Rumia (#2)
-	- Mystia (Lunch Lady)
+	- Mystia (Lunch Lady, *not a student*)
 
 - ## Medicine Research
-	- Eirin (Nurse/Vet making vaccines from their samples)
+	- Eirin (Nurse/Vet making vaccines from their samples, *not a student*)
 	- Yamame (Disease maker)
 	- Medicine Melancholy (Poison maker)
